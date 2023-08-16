@@ -2,7 +2,7 @@
 
 ## 🙋‍♂️ About Me
 
-Hello there! I'm Ilyosbek, a passionate developer with a strong interest in web development and creating engaging user experiences. I have experience working with Django, Django Rest Framework, Vue.js, Quasar, and even a bit of AR.js. I love turning ideas into functional and delightful applications.
+Hello there! I'm Ilyosbek (GitHub: @Ilyosxon0000), a passionate developer with a strong interest in web development and creating engaging user experiences. I have experience working with Django, Django Rest Framework, Vue.js, Quasar, and even a bit of AR.js. I love turning ideas into functional and delightful applications.
 
 ## 🛠️ Tech Stack
 
@@ -18,19 +18,19 @@ Hello there! I'm Ilyosbek, a passionate developer with a strong interest in web 
 
 A full-stack e-commerce platform built using Django and Vue.js. Users can browse products, add them to the cart, and proceed to checkout. Backend is powered by Django's ORM and frontend uses Vue.js for dynamic user interactions.
 
-[Link to Project](https://github.com/ilyosbek/e-commerce-project)
+[Link to Project](https://github.com/Ilyosxon0000/e-commerce-project)
 
 ### Project 2: AR Content Viewer (Vue.js, AR.js)
 
 An interactive web application that utilizes Vue.js and AR.js to create an augmented reality experience. Users can view and interact with AR content using their device's camera.
 
-[Link to Project](https://github.com/ilyosbek/ar-content-viewer)
+[Link to Project](https://github.com/Ilyosxon0000/ar-content-viewer)
 
 ### Project 3: Quasar Task Manager App (Quasar, Django REST Framework)
 
 A task management application developed with Quasar and integrated with a Django REST API. Users can create, update, and manage tasks, with real-time updates and synchronization between the frontend and backend.
 
-[Link to Project](https://github.com/ilyosbek/quasar-task-manager)
+[Link to Project](https://github.com/Ilyosxon0000/quasar-task-manager)
 
 ## 🌟 Contributions
 
